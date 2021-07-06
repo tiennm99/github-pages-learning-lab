@@ -1,4 +1,5 @@
 title: Learn Jekyll
+theme: minima
 author: tiennm99
 email: thisisprivateemail@mail.com
 description: > # this means to ignore newlines until "baseurl:"
